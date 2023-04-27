@@ -13,14 +13,14 @@
   </tr>
   <tr>
     <td>تمرین سری یک</td>
-    <td><a href="https://github.com/EnAnsari/algorithm-hsu/raw/main/exercise-series/1/practice-1.pdf">دانلود</a></td>
+    <td><a href="https://github.com/EnAnsari/algorithm-hsu/blob/main/exercise-series/1/practice-1.pdf">دانلود</a></td>
     <td>حل شده در کلاس - آپلود نشده</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>تمرین سری دو</td>
-    <td><a href="https://github.com/EnAnsari/algorithm-hsu/raw/main/exercise-series/2/practice2.pdf">دانلود</a></td>
+    <td><a href="https://github.com/EnAnsari/algorithm-hsu/blob/main/exercise-series/1/practice-2.pdf">دانلود</a></td>
     <td>حل شده در کلاس - آپلود نشده</td>
     <td>
       <a href="https://github.com/EnAnsari/algorithm-hsu/blob/main/src-parctices/2/question-6/optimal-binary-search-tree.py">کد مربوط به سوال 6</a>
