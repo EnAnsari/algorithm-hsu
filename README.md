@@ -45,3 +45,5 @@
 🚀 تلگرام: <a href="https://t.me/wolf2022">@wolf2022</a>
 <br>
 🔗 لینک <a href="https://t.me/+sPJGdRs89vNmMzI0">گروه تلگرام</a> برای هماهنگی‌ها
+<br>
+🔗 لینک <a href="https://cloud.hsu.ac.ir/s/xwEaNWqyFL3fcJK">کلود درس</a>
