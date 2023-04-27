@@ -28,7 +28,11 @@
       <br>
       <a href="https://github.com/EnAnsari/algorithm-hsu/blob/main/src-parctices/2/question-7/main.cpp">کد مربوط به سوال 7</a>
     </td>
-    <td>با تشکر از <a href="https://github.com/MDVR9980">@MDVR9980</a></td>
+    <td>
+      ⚡ سوال 4 تحویلی می‌باشد
+      <br>
+      با تشکر از <a href="https://github.com/MDVR9980">@MDVR9980</a>
+    </td>
   </tr>
   <tr>
 </table>
