@@ -57,6 +57,61 @@
     </td>
   </tr>
 </table>
+  
+  
+### دانلود باکس کتاب
+  <table>
+  <tr>
+    <th></th>
+    <th>عنوان</th>
+    <th>لینک دانلود</th>
+    <th>توضیحات</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>کتاب clrs</td>
+    <td>
+      <a href="https://github.com/EnAnsari/bcp1401/releases/download/1.1.0/introduction-to-algorithms-clrs.it-research.ir.pdf">دانلود نسخه دو (فارسی)</a>
+      <br>
+      <a href="https://github.com/EnAnsari/bcp1401/releases/download/1.1.0/MIT.Introduction.to.Algorithms.3rd.Edition.Sep.2009.pdf">دانلود نسخه سه (انگلیسی)</a>
+    </td>
+    <td>
+      معروف‌ترین کتاب الگوریتم
+      <br>
+      معروف به کتاب الگوریتم چهار استاد
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>کتاب درک الگوریتم</td>
+    <td>
+      <a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.0.0/grok-algor.pdf">دانلود نسخه ترجمه شده</a>
+    </td>
+    <td>
+      grokking algorithms
+      <br>
+      <a href='https://youtu.be/p21OlSQIRZk'>
+      ویدیو معرفی کتاب - جادی (با فیلترشکن باز شود)
+      <a/>
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>الگوریتم برای مسائل سخت</td>
+    <td>
+      <a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.0.0/algorithm-for-hard-problems.pdf">دانلود نسخه زبان اصلی</a>
+    </td>
+    <td>معرفی شده در دوره طراحی الگوریتم گنج تابش</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>کتاب دایتل اند دایتل</td>
+    <td>
+      <a href="https://github.com/EnAnsari/bcp1401/releases/tag/1.0.0">ورود به باکس دانلود</a>
+    </td>
+    <td>بهترین کتاب یادگیری سی پلاس پلاس</td>
+  </tr>
+  <table/>
 </div>
 
 <br>
