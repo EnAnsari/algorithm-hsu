@@ -37,7 +37,7 @@
   <tr>
     <td>تمرین سری سه</td>
     <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.0.0/practice-3.pdf">دانلود</a></td>
-    <td>در حل تمرین حل خواهد شد</td>
+    <td>به زودی آپلود می‌شود</td>
     <td></td>
     <td>
       یکشنبه ۷ خرداد ساعت ۱۲ 
@@ -48,12 +48,21 @@
   <tr>
     <td>تمرین سری چهار</td>
     <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.0.0/practice-4.pdf">دانلود</a></td>
-    <td>در حل تمرین حل خواهد شد</td>
+    <td>به زودی آپلود می‌شود</td>
     <td></td>
     <td>
       سه شنبه ۱۶ خرداد ساعت ۱۲ 
       <br>
       کلاس ۲۴۴ دانشکده مهندسی
+    </td>
+  </tr>
+  <tr>
+    <td>تمرین سری پنج</td>
+    <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.0.0/practice-5.pdf">دانلود</a></td>
+    <td></td>
+    <td></td>
+    <td>
+      سوال آخر به عنوان پروژه قرار دارد
     </td>
   </tr>
 </table>
