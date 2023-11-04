@@ -1,4 +1,32 @@
 # اصول طراحی الگوریتم
+
+📅 ترم مهر ۱۴۰۲
+<br>
+
+### لیست دانلود
+<div dir='rtl'>
+<table>
+  <tr>
+    <th>عنوان</th>
+    <th>سوالات</th>
+    <th>پاسخ</th>
+    <th>لینک‌های مربوطه</th>
+    <th>توضیحات</th>
+  </tr>
+  <tr>
+    <td>میانترم بهار ۱۴۰۱</td>
+    <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.1.0/mid-question-spring-1401.pdf">دانلود</a></td>
+    <td>
+      <a href='https://github.com/EnAnsari/algorithm-hsu/releases/download/1.1.0/mid-answer-spring-1401.pdf'>دانلود</a>
+    </td>
+    <td></td>
+    <td>سوالات مشابه<br>تمرین سری ۱ بهمن ۱۴۰۱</td>
+  </tr>
+
+</table>
+
+<br><hr>
+
 📅 ترم بهمن ۱۴۰۱
 <br>
 
