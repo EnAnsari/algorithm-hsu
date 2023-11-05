@@ -22,7 +22,15 @@
     <td></td>
     <td>سوالات مشابه<br>تمرین سری ۱ بهمن ۱۴۰۱</td>
   </tr>
-
+  <tr>
+    <td>تمرین سری یک</td>
+    <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.1.0/practice-seri-1.pdf">دانلود</a></td>
+    <td>
+      به زودی آپلود می‌شود
+    </td>
+    <td></td>
+    <td>تقسیم و حل و<br>برنامه نویسی پویا</td>
+  </tr>
 </table>
 
 <br><hr>
