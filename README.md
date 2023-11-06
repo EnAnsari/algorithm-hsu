@@ -31,6 +31,15 @@
     <td></td>
     <td>تقسیم و حل و<br>برنامه نویسی پویا</td>
   </tr>
+  <tr>
+    <td>تمرین سری دو</td>
+    <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.1.0/practice-seri-2.pdf">دانلود</a></td>
+    <td>
+      به زودی آپلود می‌شود
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 <br><hr>
