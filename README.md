@@ -28,7 +28,9 @@
     <td>
       به زودی آپلود می‌شود
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/EnAnsari/algorithm-hsu/blob/main/src/1402-1/practices/1/question-2/main.py">کد مربوط به سوال 2</a>
+    </td>
     <td>تقسیم و حل و<br>برنامه نویسی پویا</td>
   </tr>
   <tr>
@@ -71,9 +73,9 @@
     <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.0.0/practice-2.pdf">دانلود</a></td>
     <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.0.0/answer-2.pdf">دانلود</a></td>
     <td>
-      <a href="https://github.com/EnAnsari/algorithm-hsu/blob/main/src/2/question-6/optimal-binary-search-tree.py">کد مربوط به سوال 6</a>
+      <a href="https://github.com/EnAnsari/algorithm-hsu/blob/main/src/1401-2/practices/2/question-6/optimal-binary-search-tree.py">کد مربوط به سوال 6</a>
       <br>
-      <a href="https://github.com/EnAnsari/algorithm-hsu/blob/main/src/2/question-7/main.cpp">کد مربوط به سوال 7</a>
+      <a href="https://github.com/EnAnsari/algorithm-hsu/blob/main/src/1401-2/practices/2/question-7/main.cpp">کد مربوط به سوال 7</a>
     </td>
     <td>
       ⚡ سوال 4 تحویلی می‌باشد
