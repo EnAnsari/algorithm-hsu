@@ -39,8 +39,10 @@
     <td>
       به زودی آپلود می‌شود
     </td>
-    <td></td>
-    <td></td>
+    <td>
+      <a href="https://github.com/EnAnsari/algorithm-hsu/tree/main/src/1402-1/practices/2/question-4">کد مربوط به سوال 4</a>
+    </td>
+    <td>حریصانه</td>
   </tr>
 </table>
 
