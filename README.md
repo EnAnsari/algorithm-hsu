@@ -44,6 +44,20 @@
     </td>
     <td>حریصانه</td>
   </tr>
+  <tr>
+    <td>تمرین سری سه</td>
+    <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.1.0/practice-seri-3.pdf">دانلود</a></td>
+    <td>حل شده در کلاس حل تمرین</td>
+    <td></td>
+    <td>بک ترک و برنچ اند باند</td>
+  </tr>
+  <tr>
+    <td>تمرین سری چهار</td>
+    <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.1.0/practice-seri-4.pdf">دانلود</a></td>
+    <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.1.0/answer-practice-4.pdf">دانلود</a></td>
+    <td></td>
+    <td>گراف</td>
+  </tr>
 </table>
 
 <br><hr>
