@@ -48,7 +48,11 @@
     <td>تمرین سری سه</td>
     <td><a href="https://github.com/EnAnsari/algorithm-hsu/releases/download/1.1.0/practice-seri-3.pdf">دانلود</a></td>
     <td>حل شده در کلاس حل تمرین</td>
-    <td></td>
+    <td>
+      <a href="https://github.com/EnAnsari/sudoku/blob/main/method_2/main.py">کد مربوط به سوال 3</a>
+      <br>
+      <a href="/src/1402-1/practices/3/question-4/bab.cpp">کد مربوط به سوال 4</a>
+    </td>
     <td>بک ترک و برنچ اند باند</td>
   </tr>
   <tr>
