@@ -47,7 +47,6 @@ result findBest(int income[N][N], int time[N][N], result res, int level = -1, in
     }
 
     result min;
-    min.isExist = false;
     for(int i = 0; i < N; i++)
         min = minimum(min, findBest(income, time, res, level + 1, i));
     return min;
