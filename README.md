@@ -16,7 +16,9 @@
   </tr>
   <tr>
     <td>تمرین سری یک</td>
-    <td>به زودی آپلود می‌شود</td>
+    <td>
+      <a href='https://github.com/EnAnsari/algorithm-hsu/releases/download/1.2.0/practice-seri-1.pdf'>دانلود</a>
+    </td>
     <td>
       به زودی آپلود می‌شود
     </td>
